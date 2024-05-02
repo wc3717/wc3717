@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/wc371717" target="blank"><img src="https://img.shields.io/twitter/follow/wc371717?logo=twitter&style=for-the-badge" alt="wc371717" /></a> </p>
 
-- 🔭 I’m currently working at [Advertise Your Server](https://ays.gg)
+- 🔭 I’m currently working at Deakin University
 
 - 👨‍💻 All of my projects are available at [https://wcook.net](https://wcook.net)
 
-- 📝 I regularly write articles on [https://blog.ays.gg](https://blog.ays.gg)
-
-- 📫 How to reach me **will@ays.gg**
+- 📫 How to reach me **will@wcook.net**
 
 - ⚡ Fun fact **I love buses.**
 
